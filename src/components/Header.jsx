@@ -10,7 +10,7 @@ const Header = () => {
         <HashLink to="/#home">Home</HashLink>
         <Link to="/contact">ContactUs</Link>
         {/* for scrolling */}
-        <HashLink to="/#about">aboutUs</HashLink>
+        <HashLink to="/#about">AboutUs</HashLink>
         <HashLink to="/#brands">Brands</HashLink>
         <HashLink to="/services">Services</HashLink>
       </main>
